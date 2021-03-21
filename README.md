@@ -13,7 +13,7 @@ you can play this through the link below
 https://yuyakagawa.github.io/card_trick21/  
 
 ## Preview
-![preview_browser](https://user-images.githubusercontent.com/44108072/111900064-b0fa5500-8a73-11eb-95d2-4d519902653f.gif
+![preview_browser](https://user-images.githubusercontent.com/44108072/111900064-b0fa5500-8a73-11eb-95d2-4d519902653f.gif)
 
 # 2. Python (Jupyter Notebook)
 ## Requirement
