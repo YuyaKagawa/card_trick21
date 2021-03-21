@@ -25,4 +25,4 @@ in command line
 or  
 execute all cells in 21-card_trick.ipynb
 
-<img src=results.png width=400>
+<img src=img_rep/results.png width=400>
