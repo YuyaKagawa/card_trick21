@@ -41,6 +41,9 @@ $(document).ready(function(){
     canvas = document.getElementById("canvas");
     context = canvas.getContext("2d");
     
+    canvas.width = Math.min(window.innerHeight,window.innerWidth)-100;
+    canvas.height = Math.min(window.innerHeight,window.innerWidth)-100;
+
     cmar = Math.min(canvas.width,canvas.height)/30; // マージン
     colw = (canvas.width-2*cmar)/3; // 1列の幅
     cscale = 0.5; // スケール
