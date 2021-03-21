@@ -1,0 +1,25 @@
+mark.red{
+    color: white;
+    background-color: red;
+}
+
+body{
+    text-align: left;
+}
+
+footer{
+    margin-top: 50px;
+    text-align: left;
+}
+
+canvas{
+    background: #999;
+}
+
+#b_start{
+    display: none;
+}
+
+#b_reset{
+    display: none;
+}
